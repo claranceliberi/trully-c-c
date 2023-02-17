@@ -5,7 +5,7 @@ This is a simple news app that uses the [News API](https://newsapi.org/) to fetc
 ##  Setup and Running
 
 1. make sure you have node.js installed
-2. run `yarn` to install packages3. create 
+2. run `yarn` to install packages
 
 3. create a `.env` file in the root directory and add the following:
 
